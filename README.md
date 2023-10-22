@@ -6,7 +6,6 @@
 ## I'm currently working on...
   * Korea university Center for Lexicography Reaserch Intern (2018.05~)</br>
   * 2023 고려대학교 경영대학 DAB 경진대회 본선 (묵자형 선거 공보물의 축약) (2023.06~)</br>
-  * 2023 DATA·AI 분석 경진대회 본선 (Diffusion을 이용한 초단기 강수량 예측) (2023.07~)</br>
   * 2023 한국어 AI 경진대회 예선 (노인, 아동 특화 음성 인식) (2023.09~)</br>
 
 ## I'm insterested in...
@@ -19,7 +18,7 @@
 ## Awards
   * 5th Goorm NLP bootcamp 2nd place</br>
   * SNU ambient AI bootcamp and competition 1st place (응급 상황에서의 수어 통역기)</br>
-  
+  * 2023 DATA·AI 분석 경진대회 본선 진출 (초단기 강수량 예측) </br>
 ## Skill set
 ### Language
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
