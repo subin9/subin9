@@ -19,7 +19,7 @@
   * 5th Goorm NLP bootcamp 2nd place</br>
   * SNU ambient AI bootcamp and competition 1st place (응급 상황에서의 수어 통역기)</br>
   * 2023 DATA·AI 분석 경진대회 본선 진출 (초단기 강수량 예측) </br>
-    * 2023 한국어 AI 경진대회 예선 5위 (노인, 아동 특화 음성 인식) (2023.09~)</br>
+  * 2023 한국어 AI 경진대회 예선 5위 (노인, 아동 특화 음성 인식) (2023.09~)</br>
 ## Skill set
 ### Language
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
