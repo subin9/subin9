@@ -7,7 +7,7 @@
   * Kaggle LLM - Detect AI Generated Text (2023.10~)
 
 ## I worked on...
-  * Korea university Center for Lexicography Reaserch Intern (2018.05~2023.11)</br>
+  * Korea University Center for Lexicography Reaserch Intern (2018.05~2023.11)</br>
   
 ## I'm insterested in...
   * Audio (Phonetics, phonology)</br>
