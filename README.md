@@ -14,7 +14,6 @@
   * Speech recognition</br>
   * Music recommandation</br>
   * Natural language processing</br>
-  * Diffusion</br>
 
 ## Awards
   * 5th Goorm NLP bootcamp 2nd place</br>
