@@ -4,7 +4,7 @@
   * Senior / Technical & Academic Executive @ AIKU (AI academy of Korea University)</br>
 
 ## I'm currently working on...
-  * Kaggle LLM - Detect AI Generated Text (2023.10~)
+  * Kaggle LLM - PII Data Detection (2024.01~)
 
 ## I worked on...
   * Korea University Center for Lexicography Reaserch Intern (2018.05~2023.11)</br>
