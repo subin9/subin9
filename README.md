@@ -4,7 +4,7 @@
   * Senior / Technical & Academic Executive @ AIKU (AI academy of Korea University)</br>
 
 ## I'm currently working on...
-  * LG Aimers 2nd phase (49 / 1118)
+  * LG Aimers 2nd phase (49/1118)
 
 ## I worked on...
   * Korea University Center for Lexicography Reaserch Intern (2018.05~2023.11)</br>
