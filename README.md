@@ -2,6 +2,7 @@
   * Senior @ Korea University, Dept. of Korean Language and Literature.</br>
   * Double majoring @ Dept. of Computer Science & Engineering.</br>
   * Senior / Technical & Academic Executive @ AIKU (AI academy of Korea University)</br>
+  * NCSOFT Speech AI Lab Intern (2024.03~2024.08)
 
 ## I'm currently working on...
   * LG Aimers 2nd phase (49/1118)
