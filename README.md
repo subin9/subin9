@@ -5,7 +5,7 @@
   * NCSOFT Speech AI Lab Intern (2024.03~2024.08)
 
 ## I'm currently working on...
-  * LG Aimers 2nd phase (49/1118)
+  * LG Aimers 2nd phase (12/1217)
 
 ## I worked on...
   * Korea University Center for Lexicography Reaserch Intern (2018.05~2023.11)</br>
