@@ -6,6 +6,7 @@
 
 ## I'm currently working on...
   * LG Aimers 4기 Phase 3 (~2024.04)</br>
+  * AI Spark Challenge (Leveraging AI for Enhanced Satellite Imagery Analysis)</br>
 
 ## I worked on...
   * Korea University Center for Lexicography Reaserch Intern (2018.05~2023.11)</br>
