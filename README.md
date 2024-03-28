@@ -2,22 +2,21 @@
   * Senior @ Korea University, Dept. of Korean Language and Literature.</br>
   * Double majoring @ Dept. of Computer Science & Engineering.</br>
   * Senior / Technical & Academic Executive @ AIKU (AI academy of Korea University)</br>
-  * NCSOFT Speech AI Lab MFX team Intern (2024.03~2024.08)
+  * NCSOFT Music AI Lab MFX team Intern (2024.03~2024.08)
 
 ## I'm currently working on...
   * LG Aimers 4기 Phase 3 (~2024.04)</br>
-  * AI Spark Challenge : Leveraging AI for Enhanced Satellite Imagery Analysis (~2024.03)</br>
 
 ## I worked on...
   * Korea University Center for Lexicography Reaserch Intern (2018.05~2023.11)</br>
   
 ## I'm interested in...
   * Audio (Phonetics, phonology)</br>
+  * Speech / SFX synthesis</br>
   * Speech recognition</br>
   * Music recommandation</br>
   * Natural language processing</br>
-  * Speech / SFX synthesis</br>
-
+  
 ## Awards
   * 5th Goorm NLP bootcamp 2nd place</br>
   * SNU ambient AI bootcamp and competition 1st place (응급 상황에서의 수어 통역기)</br>
