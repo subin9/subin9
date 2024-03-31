@@ -2,7 +2,7 @@
   * Senior @ Korea University, Dept. of Korean Language and Literature.</br>
   * Double majoring @ Dept. of Computer Science & Engineering.</br>
   * Senior / Technical & Academic Executive @ AIKU (AI academy of Korea University)</br>
-  * NCSOFT Music AI Lab MFX team Intern (2024.03~2024.08)
+  * NCSOFT Audio AI Lab MFX team Intern (2024.03~2024.08)
 
 ## I'm currently working on...
   * LG Aimers 4기 Phase 3 (~2024.04)</br>
