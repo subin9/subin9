@@ -5,7 +5,6 @@
   * NCSOFT Audio AI Lab MFX team Intern (2024.03~2024.08)
 
 ## I'm currently working on...
-  * LG Aimers 4기 Phase 3 (~2024.04)</br>
 
 ## I worked on...
   * Korea University Center for Lexicography Reaserch Intern (2018.05~2023.11)</br>
@@ -24,8 +23,8 @@
   * 2023 한국어 AI 경진대회 NIA 원장상 (노인, 아동 특화 음성 인식) </br>
   * 2023 고려대학교 경영대학 DAB 경진대회 본선 (묵자형 선거 공보물의 축약) </br>
   * 2023 피부정밀진단 예측 AI 경진대회 장려상 </br>
-  
-## Skill set
+  * LG Aimers 4기 Phase 3 (~2024.04)</br>## Skill set</br>
+
 ### Language
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ### Framework
