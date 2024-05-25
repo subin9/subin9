@@ -1,13 +1,13 @@
 ## I'm currently in...
   * Senior @ Korea University, Dept. of Korean Language and Literature.</br>
   * Double majoring @ Dept. of Computer Science & Engineering.</br>
-  * Senior / Technical & Academic Executive @ AIKU (AI academy of Korea University)</br>
-  * NCSOFT Audio AI Lab Sound generation team Intern (2024.03~2024.08)
+  * Senior / Technical & Academic Executive @ AIKU (AI Academy of Korea University)</br>
+  * NCSOFT Audio AI Lab Sound Generation Team Intern (2024.03 ~ 2024.08)
 
 ## I'm currently working on...
 
 ## I worked on...
-  * Korea University Center for Lexicography Reaserch Intern (2018.05~2023.11)</br>
+  * Korea University Center for Lexicography Reaserch Intern (2018.05 ~ 2023.11)</br>
   
 ## I'm interested in...
   * Audio (Phonetics, phonology)</br>
