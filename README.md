@@ -7,7 +7,7 @@
 ## I worked on...
   * Korea University Center for Lexicography Reaserch Intern (2018.05 ~ 2023.11)</br>
   * Senior / Technical & Academic Executive @ AIKU (AI Academy of Korea University)</br>
-  * NCSOFT Audio AI Lab Sound Generation Team Intern (2024.03 ~ 2024.08)
+  * NCSOFT Audio AI Lab Sound Generation Team (Prev. Music AI Team) Intern (2024.03 ~ 2024.08)
   
 ## I'm interested in...
 * Audio (Phonetics, phonology)
