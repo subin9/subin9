@@ -1,4 +1,4 @@
-### Hi, I'm Soobin
+### Hi, I'm Soobin 👋
 
 <br/>
 
