@@ -2,7 +2,7 @@
 
 <br/>
 
-Working at the intersection of ML engineering and solution architecture — building GenAI systems that solve real business problems.
+Forward Deployed Engineer at Rebellions, working at the intersection of ML engineering and solution architecture — bringing LLM inference to NPUs.
 
 Previously built **Treaty Hub** at Munich Re Korea — a GenAI platform presented across multiple APAC offices.
 
