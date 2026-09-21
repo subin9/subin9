@@ -3,7 +3,7 @@
 <br/>
 
 Forward Deployed Engineer at Rebellions, working at the intersection of ML engineering and solution architecture — bringing LLM inference to NPUs.
-Currently a commiter of the vLLM Semantic Router team.
+Currently a committer of the vLLM Semantic Router team.
 
 Previously built **Treaty Hub** at Munich Re Korea — a GenAI platform presented across multiple APAC offices.
 
